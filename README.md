@@ -1,11 +1,11 @@
 # Teste - Bmg Seguridade
 
 ## Link do projeto em produção
-- [https://bmg-web-woad.vercel.app](https://bmg-web-woad.vercel.app)
+- <a href="https://bmg-web-woad.vercel.app" target="_blank">https://bmg-web-woad.vercel.app</a>
 
 ## Link dos repositórios Frontend e Backend:
-- Frontend: [https://github.com/henrique2003/bmg-web](https://github.com/henrique2003/bmg-web)
-- Backend: [https://github.com/henrique2003/bmg-backend](https://github.com/henrique2003/bmg-backend)
+- Frontend: <a href="https://github.com/henrique2003/bmg-web" target="_blank">https://github.com/henrique2003/bmg-web</a>
+- Backend: <a href="https://github.com/henrique2003/bmg-backend" target="_blank">https://github.com/henrique2003/bmg-backend</a>
 
 ## Tecnologias
 
