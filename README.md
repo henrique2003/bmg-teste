@@ -1,5 +1,12 @@
 # Teste - Bmg Seguridade
 
+## Link do projeto em produção
+- [link](https://bmg-web-woad.vercel.app)
+
+## Link dos repositórios Frontend e Backend:
+Frontend: [link](https://github.com/henrique2003/bmg-web)
+Backend: [link](https://github.com/henrique2003/bmg-backend)
+
 ## Tecnologias
 
 - **Backend**: .NET 8
