@@ -28,7 +28,7 @@ Mas se ainda sim desejar roda-los com suas próprias mãos, os scripts de banco 
 
 1. **Usando MySQL Local**:
 
-   - Crie a base de dados bmg.
+   - Crie a base de dados bmg (caso opte por rodar os scripts na mão).
    - Para iniciar a API, defina o IIS Express e depois inicie.
 
 2. **Usando Docker**:
