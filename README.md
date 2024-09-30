@@ -22,7 +22,7 @@
 ## Scripts de Banco de Dados
 
 A API tem integração com migrations, não sendo preciso executar qualquer script de banco manualmente.
-Mas se ainda sim desejar roda-los com suas próprias mãos, os scripts de banco de dados estão localizados em Adapter/Bmg.Repository/Dumps.
+Mas se ainda assim desejar rodá-los com suas próprias mãos, os scripts de banco de dados estão localizados em Adapter/Bmg.Repository/Dumps.
 
 ## Instruções para Rodar o Backend
 
